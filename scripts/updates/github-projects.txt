@@ -51,6 +51,7 @@ bmon|tgraf/bmon
 borgbackup|borgbackup/borg
 brook|txthinking/brook
 brotli|google/brotli
+btfs|TRON-US/go-btfs|\d+.\d+.\d+
 
 ## Bad tag.
 #c-ares|c-ares/c-ares
@@ -180,6 +181,7 @@ gping|orf/gping|\d+\.\d+\.\d+
 gumbo-parser|google/gumbo-parser
 harfbuzz|harfbuzz/harfbuzz
 hashdeep|jessek/hashdeep
+helix|helix-editor/helix
 helm|helm/helm
 hexcurse|LonnyGomes/hexcurse
 
@@ -582,6 +584,7 @@ shiori|go-shiori/shiori
 shfmt|mvdan/sh
 sl|mtoyoda/sl
 sleuthkit|sleuthkit/sleuthkit|\d+\.\d+\.\d+
+slides|maaslalani/slides
 solidity|ethereum/solidity
 sops|mozilla/sops
 
@@ -724,7 +727,9 @@ xmake|xmake-io/xmake
 #yajl|lloyd/yajl
 
 youtubedr|kkdai/youtube
-z3|Z3Prover/z3|\d+\.\d+\.\d+
+
+## May require replacing patches when updating.
+#z3|Z3Prover/z3|\d+\.\d+\.\d+
 
 ## Returns 'null' in latest tag.
 #zbar|mchehab/zbar
